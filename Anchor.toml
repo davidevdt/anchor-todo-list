@@ -1,9 +1,11 @@
+[toolchain]
+
 [features]
 seeds = false
 skip-lint = false
 
-[programs.devnet]
-todo_list_app = "<ADD YOUR ADDRESS HERE>"
+[programs.localnet]
+todo_list_app = "5DKzJ39FkCy4B6Y9NBhPVDAmd8BrJdR8RBTbCMYFSUH9"
 
 [registry]
 url = "https://api.apr.dev"
